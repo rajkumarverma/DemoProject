@@ -11,7 +11,7 @@ public class MyDemoClass {
 =======
 		System.out.println("Hello My Demo Project..................");
 		
-		System.out.println("Shadab");
+		System.out.println("Shadab Ahamad");
 >>>>>>> branch 'master' of https://github.com/rajkumarverma/DemoProject.git
 		System.out.println("hi......");
 <<<<<<< HEAD
