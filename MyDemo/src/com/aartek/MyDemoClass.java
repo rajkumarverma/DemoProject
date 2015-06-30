@@ -6,8 +6,7 @@ public class MyDemoClass {
 		// TODO Auto-generated method stub
 		
 	
-		System.out.println("Hello My Demo Project..................");
-		
+		System.out.println("Hello My Demo Project hiii mohan..................");
 		System.out.println("hi......");
 
 		System.out.println("Hello My Demo Project");
