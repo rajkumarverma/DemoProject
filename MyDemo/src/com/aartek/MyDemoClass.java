@@ -4,17 +4,17 @@ public class MyDemoClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-	
-<<<<<<< HEAD
+			
 		System.out.println("Hello My Demo Project hiii mohan..................");
-=======
+
 		System.out.println("Hello My Demo Project..................");
 		
 		System.out.println("Shadab Ahamad");
->>>>>>> branch 'master' of https://github.com/rajkumarverma/DemoProject.git
+		
 		System.out.println("hi......");
-<<<<<<< HEAD
+		
+		System.out.println("Hello this is Shadab");
+
 
 		System.out.println("Hello My Demo Project");
 		System.out.println("edit by rohit");
@@ -27,14 +27,14 @@ public class MyDemoClass {
 		System.out.println("edit by neeraj");
 	    System.out.println("mohan");
 
-=======
+
  
 	    System.out.println("finnally end");
         System.out.println("ending");
         System.out.println("again edit by  raj");
         System.out.println("hiiiii");
         
->>>>>>> branch 'master' of https://github.com/rajkumarverma/DemoProject.git
+
 	}
 
 }
